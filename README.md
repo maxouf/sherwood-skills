@@ -63,6 +63,10 @@ The `sherwood/*` Actors are built by this repository's author. Where an unaffili
 
 The same skills are submitted to [`apify/awesome-skills`](https://github.com/apify/awesome-skills), the community collection curated by Apify. This repository is the source; fixes land here first.
 
+## Also on ClawHub
+
+The same skills are published on [ClawHub](https://clawhub.ai) for OpenClaw, Hermes Agent and LobeHub users (`openclaw skills install <name>`). `tools/clawhub.py --publish --version X.Y.Z` republishes them after a change.
+
 ## License
 
 MIT
